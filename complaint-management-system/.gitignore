@@ -1,0 +1,14 @@
+# Java
+target/
+data/
+*.class
+.idea/
+*.iml
+
+# Angular
+node_modules/
+dist/
+.angular/
+
+# OS
+.DS_Store
